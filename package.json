@@ -1,0 +1,26 @@
+{
+  "name": "crawly",
+  "version": "1.0.0",
+  "description": "Node.js Web Crawler Project from Boot.dev",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derrynEdwards/crawly.git"
+  },
+  "author": "Derryn Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derrynEdwards/crawly/issues"
+  },
+  "homepage": "https://github.com/derrynEdwards/crawly#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
